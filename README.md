@@ -38,7 +38,7 @@ Whether you’re a student unsure of your direction, or an educator looking to i
 
 👩‍💻 Author
 Lindiwe Ndlazi
-📫 LinkedInhttps:(//www.linkedin.com/in/ndlazi-lindiwe-76baa6229) • GitHub • Portfolio
+📫 LinkedInhttps:(//www.linkedin.com/in/ndlazi-lindiwe-76baa6229) • GitHubhttps:(//github.com/Lindy084) • Portfoliohttps:(//lindiwe-ndlazi-portfolio-wjb2.vercel.app/)
 
 📌 License
 This project is licensed under the MIT License.
